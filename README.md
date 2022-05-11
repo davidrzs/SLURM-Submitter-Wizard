@@ -9,9 +9,9 @@ You have access to a SLURM cluster and would like to run machine learning models
 
 Usage is super simple:
 
-(1) Download the `ssw.py` script.
-(2) Create a `ssw_config.yaml` file in same directory as script - see the example file on how to fill it.
-(3) Run the script with python `ssw.py`. If you are running over an SSH connection you can use `tmux` or `nohup` to keep the script running after disconnecting from the cluster. For example `nohup python ssw.py`.
+1. Download the `ssw.py` script.
+2. Create a `ssw_config.yaml` file in same directory as script - see the example file on how to fill it.
+3. Run the script with python `ssw.py`. If you are running over an SSH connection you can use `tmux` or `nohup` to keep the script running after disconnecting from the cluster. For example `nohup python ssw.py`.
 
 
 ## Contributions and Bugs
