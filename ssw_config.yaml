@@ -1,0 +1,4 @@
+max_jobs: 6
+param_combos:
+	- [12, 1]
+	- [12, 23]
